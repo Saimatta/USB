@@ -3,5 +3,6 @@ public class Ternary{
     int age=15;
     boolean b=age>18?true:false;
     System.out.println(b);
+  }
 }
   
